@@ -1,0 +1,7 @@
+{
+    "Prefix": "{red}[Math] {white}",
+
+    "MathQuiz.Question": "Solve: {red}{0} {white}(Reward: {green}{1} {white}credits)",
+    "MathQuiz.Awarded": "{blue}{0} {white}has been awarded {green}{1} {white}credits for the correct answer!",
+    "MathQuiz.NoAnswer": "No one answered correctly in time. Correct answer: {green}{0}{white}. Next question in {red}{1} {white}seconds"
+}
