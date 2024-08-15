@@ -1,5 +1,5 @@
 # [Store module] Math
-Math Quiz module for Store. Answer correctly and get rewarded. Automatically generates math problems with configurable questions, rewards, and difficulty
+Math module for Store. Answer correctly and get rewarded. Automatically generates math problems with configurable questions, rewards, and difficulty
 
 # Config
 Config will be auto generated. Default:
