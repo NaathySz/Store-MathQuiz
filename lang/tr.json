@@ -1,0 +1,7 @@
+{
+    "Prefix": "{red}[Matematik] {white}",
+
+    "MathQuiz.Question": "Çözün: {red}{0} {white}(Ödül: {green}{1} {white}kredi)",
+    "MathQuiz.Awarded": "{blue}{0} {white}doğru cevap için {green}{1} {white}kredi ile ödüllendirildi!",
+    "MathQuiz.NoAnswer": "Kimse zamanında doğru cevabı veremedi. Doğru cevap: {green}{0}{white}. Sonraki soru {red}{1} {white}saniye içinde"
+}
